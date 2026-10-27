@@ -1,0 +1,1 @@
+{"name":"pptx-vision","private":true,"type":"module","scripts":{"sample":"python make_images.py && node make-sample.mjs","ask":"node ask.mjs"},"dependencies":{"fast-xml-parser":"^5.11.2","jszip":"^3.10.2","pptxgenjs":"^4.0.1","sharp":"^0.35.5"}}
